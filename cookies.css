@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    text-align: right;
+    padding-right: 10px;
+    color: cadetblue;
+    margin-bottom: 18px;
+}
+.one{
+    padding-left: 20px;
+    background-color: whitesmoke;
+    margin-top: 5px;
+}
+h2{
+    text-transform: uppercase;
+    color:red;
+    text-align: center;
+}
