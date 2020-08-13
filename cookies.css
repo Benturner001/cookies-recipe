@@ -5,7 +5,7 @@ body{
 .container{
     text-align: right;
     padding-right: 10px;
-    color: cadetblue;
+    color: black;
     margin-bottom: 18px;
 }
 .one{
@@ -13,6 +13,11 @@ body{
     background-color: whitesmoke;
     margin-top: 5px;
     border-bottom: 5px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color:blue;
 }
 h2{
     text-transform: uppercase;
@@ -24,4 +29,5 @@ h2{
     padding-top: 20px;
     padding-left: 20px;
     color:black;
+    
 }
